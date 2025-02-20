@@ -7,7 +7,7 @@ pipeline {
     }
 
     environment {
-        SLACK_CHANNEL = '???'
+        SLACK_CHANNEL = 'jenkins-notification'
         SLACK_TOKEN = 'slack-token'
     }
 
